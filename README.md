@@ -1,1 +1,2 @@
-# Crush-the-zombies--1-project
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
